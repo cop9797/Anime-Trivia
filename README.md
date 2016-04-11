@@ -4,6 +4,6 @@ Please follow guidelines for pull requests and patches:
 
 Anime: Question`Answer
 
-Limit 50 questions max per anime goes down by popularity.
+Limit 50 questions max per anime goes down by popularity and length per season.
 
 Will not release until 258+ questions are added to this repository.
