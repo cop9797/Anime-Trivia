@@ -53,7 +53,7 @@ Outlaw Star: How many times do we see Aisha successfully transform into her beas
 Outlaw Star: Counting him, how many men were in CrackerJack's gang?`5
 Outlaw Star: What is the name of the spaceship piloted by Gene Starwind?`Outlaw Star
 Outlaw Star: What is the operating system for the Outlaw Star?`Gilliam II
-Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl
+Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl`Ctarl Ctarl
 Outlaw Star: What is the first caster shell Gene Starwind uses?`#3
 Beck: Mongolian Chop Squad: What type of guitar did Ryusuke lend to Koyuki?`Gibson Les Paul
 Beck: Mongolian Chop Squad: What song does Maho and Yukio sing together in the pool?`Moon on the water
