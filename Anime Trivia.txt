@@ -12,11 +12,7 @@ Sailor Moon: What is Sailor Neptune the soldier of?`Ocean and Embrace
 Sailor Moon: What is Sailor Saturn the soldier of?`Destruction and Silence
 Sailor Moon: Who is the oldest Sailor Senshi?`Sailor Pluto
 Sailor Moon: What does the Japanese title translate to?`Pretty Soldier Sailor Moon
-<<<<<<< HEAD
-Sailor Moon: How many episodes does the original Sailor Moon have?'200 episodes
-=======
 Sailor Moon: How many episodes does the original Sailor Moon have?`200 episodes
->>>>>>> origin/master
 Sailor Moon: How many animated films were there?`3 films
 Sailor Moon: Which other magic girl Sailor Moon shares an animation team with Sailor Moon?`Revolutionary Girl Utena
 Sailor Moon: What does Usagi Tsukino translate to?`Rabbit on the moon
@@ -72,7 +68,6 @@ Steins;Gate: Steins;Gate is a collaboration work between 5pb. and who?`Nitro+
 Steins;Gate: What does the team call the text messages sent to the past?`Dmail`d-mail
 Steins;Gate: What nickname does Rintaro give to Moeka?`Shining Finger
 Steins;Gate: What is the name of the ability to retain memories across world lines?`Reading Steiner
-<<<<<<< HEAD
 Black Rock Shooter: Who was Black Rock Shooter's counterpart?`Mato Kuroi`Kuroi Mato
 Black Rock Shooter: Who was Dead Master's counterpart?`Yomi Takanashi`Takanashi Yomi
 Black Rock Shooter: Who was Strength's counterpart?`Yuu Koutari`Koutari Yuu
@@ -93,10 +88,6 @@ Black Rock Shooter: When did the first episode of the anime air?`February 2012
 Black Rock Shooter: When did the OVA air?`July 2010
 Black Rock Shooter: What sport club did Yomi join?`Volleyball
 Black Rock Shooter: What was the shape of the phone charm that Mato bought for Yomi?`A Star`Star 
-
-
-
-=======
 Chrno Crusade: Who did Chrono kill by an accident?`Mary Magdelene
 Chrno Crusade: Who is Rosette's brother?`Joshua Christopher
 Chrno Crusade: How old was Rosette when she met Chrono?`12 years old
@@ -107,4 +98,3 @@ Chrno Crusade: Who does Rosette work for?`Magdalene Order`Order of Magdelene
 Chrno Crusade: Who is Chrono's brother?`Aion
 Chrno Crusade: Where was Chrono Born?`Pandaemonium
 Chrno Crusade: What does Rosette use as a seal for Chrono?`Pocket Watch
->>>>>>> origin/master
