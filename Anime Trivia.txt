@@ -55,23 +55,13 @@ Outlaw Star: What is the name of the spaceship piloted by Gene Starwind?`Outlaw 
 Outlaw Star: What is the operating system for the Outlaw Star?`Gilliam II
 Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl
 Outlaw Star: What is the first caster shell Gene Starwind uses?`#3
-
-Steins;Gate: What anime does Kurisu's online name reference?`Dragon Ball Z`DBZ
-Steins;Gate: What is written on the Lab Members badge?`OSHMKUFA 2010
-Steins;Gate: Who does Mayuri work for?`Faris
-Steins;Gate: What is Mayuri's favorite hobby?`Cosplay
-Steins;Gate: How old is Mayuri Shiina?`16
-Steins;Gate: Who ate Kurisu's pudding?`Rintaro Okabe`Rintaro`Okabe
-Steins;Gate: How old is Rintaro Okabe?`18
-Steins;Gate: What will happen to Mayuri when Mayuri's pocket watch stops working?`Death`Dies`die`She dies
-Steins;Gate: Who is the sixth person that is shown in the opening?`Rintaro Okabe`Rintaro`Okabe
-Steins;Gate: What is the name of Okabe's Laboratory?`Future Gadget Laboratory
-Steins;Gate: What name does Okabe call Kurisu?`Christina
-Steins;Gate: In what area of Tokyo does Steins;Gate take place?`Akihabara
-Steins;Gate: Why does Mayuri stay with Okabe?`She's his hostage`Hostage
-Steins;Gate: What is Rintaro's landlord's name?`Yugo`Mr Braun
-Steins;Gate: What is Okabe's favorite drink?`Dk Pepper
-Steins;Gate: Steins;Gate is a collaboration work between 5pb. and who?`Nitro+
-Steins;Gate: What does the team call the text messages sent to the past?`Dmail`d-mail
-Steins;Gate: What nickname does Rintaro give to Moeka?`Shining Finger
-Steins;Gate: What is the name of the ability to retain memories across world lines?`Reading Steiner
+Beck: What type of guitar did Ryusuke lend to Koyuki?`Gibson Les Paul
+Beck: What song does Maho and Yukio sing together in the pool?`Moon on the water
+Beck: What Beatles song does Yukio sing at the Greatful Sounds Music Festival?`I've Got A Feeling
+Beck: Ryusuke owns a dog, what is his name?`Beck
+Beck: What postion is Saku in Beck`Drummer
+Beck: What postion is Ray in Beck`Lead Guitarist
+Beck: What postion is Chiba in Beck`Main Vocalist
+Beck: What postion is Taira in Beck`Bass Guitarist
+Beck: Who is the main protaganist of Beck?`Yukio Tanaka
+Beck: Whats the opening theme for Beck: Mongolian Chop Squad?`Hit in the USA
