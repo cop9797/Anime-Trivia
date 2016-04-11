@@ -15,8 +15,8 @@ Sailor Moon: Who is the oldest Sailor Senshi?`Sailor Pluto
 Sailor Moon: Is Artemis a male or female'Male
 Sailor Moon: Which Sailor Senshi was the only one who's voice actor ever changed in the dub?`Sailor Jupiter
 Sailor Moon: What does the Japanese title translate to?`Pretty Soldier Sailor Moon
-Sailor Moon: How many episodes does the original Sailor Moon have?'200
-Sailor Moon: How many animated films were there?`3
+Sailor Moon: How many episodes does the original Sailor Moon have?'200 episodes
+Sailor Moon: How many animated films were there?`3 films
 Sailor Moon: Which other magic girl Sailor Moon shares an animation team with Sailor Moon?`Revolutionary Girl Utena
 Sailor Moon: Who has Earth's Sailor crystal?`Tuxedo Mask
 Sailor Moon: What does Usagi Tsukino translate to?`Rabbit on the moon
@@ -29,7 +29,7 @@ Sailor Moon: What is Sailor Neptune's helicopter's name?`Kaiohmaru
 Sailor Moon: Where are Artemis and Luna from?`The planet Mau
 Sailor Moon: Which Sailor Scout was the only one to awaken completely on her own?`Sailor Neptune
 Sailor Moon: Which company was interested in acquiring the rights to Sailor Moon in 1997?`The Walt Disney Company
-Sailor Moon: How many known Sailor Scouts are there?`20
+Sailor Moon: How many known Sailor Scouts are there?`20 Scouts
 Sailor Moon: Which song is Sailor Moon mentioned in?`One Week by The Barenaked Ladies
 Sailor Moon: Which Sailor Scout's tiara is the only one that changed over the course of the Sailor Moon?`Sailor Moon's
 Sailor Moon: What make and model is Sailor Uranus' car`A Ferrari 512M
@@ -50,7 +50,7 @@ Outlaw Star: What fighting style was used by Iraga?`Hoke Shadow Boxing
 Outlaw Star: What ship component does dragonite fuel?`Munchousen Drive
 Outlaw Star: "Tao Magic" is the short way to say what?`Senjutsu
 Outlaw Star: How many times do we see Aisha successfully transform into her beast form?`Two
-Outlaw Star: Counting him, how many men were in CrackerJack's gang?`5
+Outlaw Star: Counting him, how many men were in CrackerJack's gang?`5 Men
 Outlaw Star: What is the name of the spaceship piloted by Gene Starwind?`Outlaw Star
 Outlaw Star: What is the operating system for the Outlaw Star?`Gilliam II
 Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl
