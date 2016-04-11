@@ -1,4 +1,3 @@
-Sailor Moon: What are the Sailor Senshi named after?'Planets in the solar system
 Sailor Moon: Which two Sailor Senshi are lesbian lovers?`Sailor Uranus and Sailor Neptune
 Sailor Moon: Usagi Tsukino is better known as`Sailor Moon
 Sailor Moon: Which superhero team inspired Sailor Moon?`Power Rangers
@@ -12,36 +11,25 @@ Sailor Moon: What is Sailor Uranus the soldier of?`Sky and Flight
 Sailor Moon: What is Sailor Neptune the soldier of?`Ocean and Embrace
 Sailor Moon: What is Sailor Saturn the soldier of?`Destruction and Silence
 Sailor Moon: Who is the oldest Sailor Senshi?`Sailor Pluto
-Sailor Moon: Is Artemis a male or female'Male
-Sailor Moon: Which Sailor Senshi was the only one who's voice actor ever changed in the dub?`Sailor Jupiter
 Sailor Moon: What does the Japanese title translate to?`Pretty Soldier Sailor Moon
+<<<<<<< HEAD
 Sailor Moon: How many episodes does the original Sailor Moon have?'200 episodes
+=======
+Sailor Moon: How many episodes does the original Sailor Moon have?`200 episodes
+>>>>>>> origin/master
 Sailor Moon: How many animated films were there?`3 films
 Sailor Moon: Which other magic girl Sailor Moon shares an animation team with Sailor Moon?`Revolutionary Girl Utena
-Sailor Moon: Who has Earth's Sailor crystal?`Tuxedo Mask
 Sailor Moon: What does Usagi Tsukino translate to?`Rabbit on the moon
-Sailor Moon: In the American dub which two Sailor Senshi were related?`Sailor Uranus and Sailor Neptune
-Sailor Moon: Which episodes did the original English dub skip over?`Episodes 2, 5, 6, 20, 42, and 67
-Sailor Moon: Which season did the original English dub skip over?`The fifth season
 Sailor Moon: What color hair did Sailor Moon originally have?`Pink
 Sailor Moon: What is Sailor Uranus' helicopter's name?`Tenoumaru
 Sailor Moon: What is Sailor Neptune's helicopter's name?`Kaiohmaru
-Sailor Moon: Where are Artemis and Luna from?`The planet Mau
 Sailor Moon: Which Sailor Scout was the only one to awaken completely on her own?`Sailor Neptune
 Sailor Moon: Which company was interested in acquiring the rights to Sailor Moon in 1997?`The Walt Disney Company
 Sailor Moon: How many known Sailor Scouts are there?`20 Scouts
 Sailor Moon: Which song is Sailor Moon mentioned in?`One Week by The Barenaked Ladies
-Sailor Moon: Which Sailor Scout's tiara is the only one that changed over the course of the Sailor Moon?`Sailor Moon's
-Sailor Moon: What make and model is Sailor Uranus' car`A Ferrari 512M
-Sailor Moon: What animal does Sailor Mars love?`Sneezing Pandas
+Sailor Moon: What make and model is Sailor Uranus' car?`A Ferrari 512M`Ferrari 512M
 Sailor Moon: Which Sailor Scout was the most popular in Japan?`Sailor Mercury
 Sailor Moon: Which character gets themself kidnapped the most often?`Tuxedo Mask
-Sailor Moon: What is Sailor Saturn's worst school subject?`PE
-Sailor Moon: What is Sailor Pluto's least favorite food?`Eggplant
-Sailor Moon: What are Sailor Uranus, Neptune, and Pluto's tailsmans based on?`The three imperial treasures of Japan
-Sailor Moon: What is Sailor Jupiter's hobby?`Bargain hunting
-Sailor Moon: What is Sailor Moon and Sailor Mini Moon's least favorite food?`Carrots
-Sailor Moon: Which character did Naoko Takeuchi had an affection for?`Kunzite
 Sailor Moon: Which villain was the only one to die twice in the Sailor Moon?`Kaolinite
 Sailor Moon: What is Sailor Mercury allergic to?`Love letters
 Outlaw Star: Which of these species resembles birds?`Silgrians
@@ -53,18 +41,18 @@ Outlaw Star: How many times do we see Aisha successfully transform into her beas
 Outlaw Star: Counting him, how many men were in CrackerJack's gang?`5 Men
 Outlaw Star: What is the name of the spaceship piloted by Gene Starwind?`Outlaw Star
 Outlaw Star: What is the operating system for the Outlaw Star?`Gilliam II
-Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl
-Outlaw Star: What is the first caster shell Gene Starwind uses?`#3
-Beck: What type of guitar did Ryusuke lend to Koyuki?`Gibson Les Paul
-Beck: What song does Maho and Yukio sing together in the pool?`Moon on the water
-Beck: What Beatles song does Yukio sing at the Greatful Sounds Music Festival?`I've Got A Feeling
-Beck: Ryusuke owns a dog, what is his name?`Beck
-Beck: What postion is Saku in Beck`Drummer
-Beck: What postion is Ray in Beck`Lead Guitarist
-Beck: What postion is Chiba in Beck`Main Vocalist
-Beck: What postion is Taira in Beck`Bass Guitarist
-Beck: Who is the main protaganist of Beck?`Yukio Tanaka
-Beck: Whats the opening theme for Beck: Mongolian Chop Squad?`Hit in the USA
+Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl`Ctarl Ctarl
+Outlaw Star: What is the first caster shell Gene Starwind used?`#3`Number 3
+Beck: Mongolian Chop Squad: What type of guitar did Ryusuke lend to Koyuki?`Gibson Les Paul
+Beck: Mongolian Chop Squad: What song does Maho and Yukio sing together in the pool?`Moon on the water
+Beck: Mongolian Chop Squad: What Beatles song does Yukio sing at the Greatful Sounds Music Festival?`I've Got A Feeling
+Beck: Mongolian Chop Squad: Ryusuke owns a dog, what is his name?`Beck
+Beck: Mongolian Chop Squad: What postion is Saku in Beck?`Drummer
+Beck: Mongolian Chop Squad: What postion is Ray in Beck?`Lead Guitarist
+Beck: Mongolian Chop Squad: What postion is Chiba in Beck?`Main Vocalist
+Beck: Mongolian Chop Squad: What postion is Taira in Beck?`Bass Guitarist
+Beck: Mongolian Chop Squad: Who is the main protaganist of Beck?`Yukio Tanaka
+Beck: Mongolian Chop Squad: Whats the opening theme for Beck: Mongolian Chop Squad?`Hit in the USA
 Steins;Gate: What anime does Kurisu's online name reference?`Dragon Ball Z`DBZ
 Steins;Gate: What is written on the Lab Members badge?`OSHMKUFA 2010
 Steins;Gate: Who does Mayuri work for?`Faris
@@ -84,6 +72,7 @@ Steins;Gate: Steins;Gate is a collaboration work between 5pb. and who?`Nitro+
 Steins;Gate: What does the team call the text messages sent to the past?`Dmail`d-mail
 Steins;Gate: What nickname does Rintaro give to Moeka?`Shining Finger
 Steins;Gate: What is the name of the ability to retain memories across world lines?`Reading Steiner
+<<<<<<< HEAD
 Black Rock Shooter: Who was Black Rock Shooter's counterpart?`Mato Kuroi`Kuroi Mato
 Black Rock Shooter: Who was Dead Master's counterpart?`Yomi Takanashi`Takanashi Yomi
 Black Rock Shooter: Who was Strength's counterpart?`Yuu Koutari`Koutari Yuu
@@ -107,3 +96,15 @@ Black Rock Shooter: What was the shape of the phone charm that Mato bought for Y
 
 
 
+=======
+Chrno Crusade: Who did Chrono kill by an accident?`Mary Magdelene
+Chrno Crusade: Who is Rosette's brother?`Joshua Christopher
+Chrno Crusade: How old was Rosette when she met Chrono?`12 years old
+Chrno Crusade: How many apostles are there?`Seven
+Chrno Crusade: Who is the Main Protaganist?`Rosette Christopher
+Chrno Crusade: What occupation is Rosette?`Exorcist
+Chrno Crusade: Who does Rosette work for?`Magdalene Order`Order of Magdelene
+Chrno Crusade: Who is Chrono's brother?`Aion
+Chrno Crusade: Where was Chrono Born?`Pandaemonium
+Chrno Crusade: What does Rosette use as a seal for Chrono?`Pocket Watch
+>>>>>>> origin/master
