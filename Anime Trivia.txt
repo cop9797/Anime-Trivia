@@ -84,3 +84,13 @@ Steins;Gate: Steins;Gate is a collaboration work between 5pb. and who?`Nitro+
 Steins;Gate: What does the team call the text messages sent to the past?`Dmail`d-mail
 Steins;Gate: What nickname does Rintaro give to Moeka?`Shining Finger
 Steins;Gate: What is the name of the ability to retain memories across world lines?`Reading Steiner
+Chrno Crusade: Who did Chrono kill by an accident?`Mary Magdelene
+Chrno Crusade: Who is Rosette's brother?`Joshua Christopher
+Chrno Crusade: How old was Rosette when she met Chrono?`12 years old
+Chrno Crusade: How many apostles are there?`Seven
+Chrno Crusade: Who is the Main Protaganist?`Rosette Christopher
+Chrno Crusade: What occupation is Rosette?`Exorcist
+Chrno Crusade: Who does Rosette work for?`Magdalene Order`Order of Magdelene
+Chrno Crusade: Who is Chrono's brother?`Aion
+Chrno Crusade: Where was Chrono Born?`Pandaemonium
+Chrno Crusade: What does Rosette use as a seal for Chrono?`Pocket Watch
