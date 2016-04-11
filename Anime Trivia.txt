@@ -55,16 +55,16 @@ Outlaw Star: What is the name of the spaceship piloted by Gene Starwind?`Outlaw 
 Outlaw Star: What is the operating system for the Outlaw Star?`Gilliam II
 Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl
 Outlaw Star: What is the first caster shell Gene Starwind uses?`#3
-Beck: What type of guitar did Ryusuke lend to Koyuki?`Gibson Les Paul
-Beck: What song does Maho and Yukio sing together in the pool?`Moon on the water
-Beck: What Beatles song does Yukio sing at the Greatful Sounds Music Festival?`I've Got A Feeling
-Beck: Ryusuke owns a dog, what is his name?`Beck
-Beck: What postion is Saku in Beck`Drummer
-Beck: What postion is Ray in Beck`Lead Guitarist
-Beck: What postion is Chiba in Beck`Main Vocalist
-Beck: What postion is Taira in Beck`Bass Guitarist
-Beck: Who is the main protaganist of Beck?`Yukio Tanaka
-Beck: Whats the opening theme for Beck: Mongolian Chop Squad?`Hit in the USA
+Beck: Mongolian Chop Squad: What type of guitar did Ryusuke lend to Koyuki?`Gibson Les Paul
+Beck: Mongolian Chop Squad: What song does Maho and Yukio sing together in the pool?`Moon on the water
+Beck: Mongolian Chop Squad: What Beatles song does Yukio sing at the Greatful Sounds Music Festival?`I've Got A Feeling
+Beck: Mongolian Chop Squad: Ryusuke owns a dog, what is his name?`Beck
+Beck: Mongolian Chop Squad: What postion is Saku in Beck?`Drummer
+Beck: Mongolian Chop Squad: What postion is Ray in Beck?`Lead Guitarist
+Beck: Mongolian Chop Squad: What postion is Chiba in Beck?`Main Vocalist
+Beck: Mongolian Chop Squad: What postion is Taira in Beck?`Bass Guitarist
+Beck: Mongolian Chop Squad: Who is the main protaganist of Beck?`Yukio Tanaka
+Beck: Mongolian Chop Squad: Whats the opening theme for Beck: Mongolian Chop Squad?`Hit in the USA
 Steins;Gate: What anime does Kurisu's online name reference?`Dragon Ball Z`DBZ
 Steins;Gate: What is written on the Lab Members badge?`OSHMKUFA 2010
 Steins;Gate: Who does Mayuri work for?`Faris
