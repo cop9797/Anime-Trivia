@@ -56,3 +56,6 @@ Outlaw Star: "Tao Magic" is the short way to say what?`Senjutsu
 Outlaw Star: How many times do we see Aisha successfully transform into her beast form?`Two
 Outlaw Star: Counting him, how many men were in CrackerJack's gang?`5
 Outlaw Star: What is the name of the spaceship piloted by Gene Starwind?`Outlaw Star
+Outlaw Star: What is the operating system for the Outlaw Star?`Gilliam II
+Outlaw Star: What species is Aisha Clan Clan?`Ctarl-Ctarl
+Outlaw Star: What is the first caster shell Gene Starwind uses?`#3
