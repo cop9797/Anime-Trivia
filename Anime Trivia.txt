@@ -158,7 +158,7 @@ General: What is a Japanese term for a character development process that descri
 General: Type of anime aimed at young boys under the age of fifteen?`shonen
 General: Type of anime aimed at young men between the ages of 15-24?`seinen
 General: Type of anime aimed at adult women?`josei
-General: Type of anime largely focused on one distinct aspect: pilotable robots?`mecha`robot
+General: Type of anime largely focused on one distinct aspect: pilotable robots?`mecha
 General: Type of anime about innocent young girls using a magical object to transform into a superhero version of themselves?`magical girl`mahou shoujo`majokko
 General: Type of anime which do not show sexual intercourse or genitalia, but sexual themes are referenced?`ecchi
 General: Type of anime where one male character, the protagonist, at the center of a group of female characters who are all vying for his romantic affections?`harem
