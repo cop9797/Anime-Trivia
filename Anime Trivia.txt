@@ -119,6 +119,15 @@ Serial Experiments Lain: What did Lain consume in Layer 2?`Accela
 Serial Experiments Lain: What is the Opening song called?`Duvet
 Serial Experiments Lain: What is the techno club called in the show?`Cyberia
 Serial Experiments Lain: What costume does Lain wear to bed?`Bear costume
+Serial Experiments Lain: What was Copland OS based off of in real life?`Apple`Apple Computers
+Serial Experiments Lain: What text-to-speech software does the show use to say Layer## at the beginning?`Whisper`Mac OS text-to-speech
+Serial Experiments Lain: Present Day`Present Time
+Serial Experiments Lain: "No matter where you are, _______________"`we're all connected`we are all connected
+Serial Experiments Lain: Who commits suicide in the first Layer?`Chisa Yomoda`Yomada Chisa`Chisa
+Serial Experiments Lain: Who was the only person to kiss Lain?`Taro
+Serial Experiments Lain: How old is Lain?`14 years old
+Serial Experiments Lain: Who is the DJ in Cyberia?`JJ
+Serial Experiments Lain: What is Lain?`God
 Pokemon: Which pokemon was Ash's original starter`Clefairy
 Pokemon: Which pokemon got a dinosaur named after it`Aerodactyl
 Pokemon: What other character did Ash's original voice actor voice`Delia Ketchum
