@@ -148,3 +148,21 @@ Pokemon: Which character had a running gag that involved them chasing their runa
 Pokemon: Which rival has a team made of only eeveelutions`Virgil
 Pokemon: Which Unova rival was the only one to encounter Team Rocket`Bianca
 Pokemon: Which former trainer companion is the only one to not have a Pokemon capable of Mega Evolution or a Pokemon that can evolve into one`Cilan
+General: Which genre is aimed at girls between 10-18?`shoujo
+General: When was the first known Japanese animation produced?`1917
+General: The practice of dressing up like anime characters in Japan is called?`cosplay
+General: In yaoi pairing, what is the "receiving", "bottom", or passive partner known as?`uke
+General: In yaoi pairing, what is the "top" or dominant partner known as?`seme
+General: What is a popular anime/manga character archetype that derives from the Japanese pronunciation of the English word 'cool'?`kuudere`coodere
+General: What is a Japanese term for a character development process that describes a person who is initially cold and even hostile towards another person before gradually showing their warm side over time?`tsundere
+General: Type of anime aimed at young boys under the age of fifteen?`shonen
+General: Type of anime aimed at young men between the ages of 15-24?`seinen
+General: Type of anime aimed at adult women?`josei
+General: Type of anime largely focused on one distinct aspect: pilotable robots?`mecha`robot
+General: Type of anime about innocent young girls using a magical object to transform into a superhero version of themselves?`magical girl`mahou shoujo`majokko
+General: Type of anime which do not show sexual intercourse or genitalia, but sexual themes are referenced?`ecchi
+General: Type of anime where one male character, the protagonist, at the center of a group of female characters who are all vying for his romantic affections?`harem
+General: What character type is a heroine that started as a villain trying to kill the protagonist but then switched to his side after falling in love with him?`mayadere
+General: It's common in anime for a character to pull their lower eyelid down to taunt someone. What is this called?`akanabe
+General: What anime character type is known as a quiet and often antisocial character?`dandere
+General: What character type is very loving and gentle to someone before their devotion becomes destructive in nature, often through violence and/or brutality?`yandere
