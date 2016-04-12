@@ -119,3 +119,23 @@ Serial Experiments Lain: What did Lain consume in Layer 2?`Accela
 Serial Experiments Lain: What is the Opening song called?`Duvet
 Serial Experiments Lain: What is the techno club called in the show?`Cyberia
 Serial Experiments Lain: What costume does Lain wear to bed?`Bear costume
+Pokemon: Which pokemon was Ash's original starter`Clefairy
+Pokemon: Which pokemon got a dinosaur named after it`Aerodactyl
+Pokemon: What other character did Ash's original voice actor voice`Delia Ketchum
+Pokemon: Which pokemon did they leave out of the original Pokerap`Mew
+Pokemon: Which pokemon is the creator's favorite`Poliwhirl
+Pokemon: Which legendary pokemon is the only one that Ash hasn't encountered`Raikou
+Pokemon: Who voiced Mewtwo in the first Pokemon movie`Masachika Ichimura
+Pokemon: What is the first non Pokemon animal that was seen on the show`A worm
+Pokemon: Which pokemon was the first to ever make an appearance in the Pokemon`Gengar
+Pokemon: Which eeveelution hasn't been owned by either a main or recurring character`Jolteon
+Pokemon: Which pokemon does Cilan fear`Purrloin
+Pokemon: Which main character was the first to leave the group in the middle of a journey for a period of time`Clemont
+Pokemon: Which rival is the only one to nickname their pokemon`Ritchie
+Pokemon: Which recurring human character is the first to share their voice actor with a pokemon`Sawyer
+Pokemon: Which regular rival is the first to be seen capturing a pokemon and receiving a gym badge on screen`Paul
+Pokemon: Which character is the only male to have made it to the Top 4 of the Sinnoh Grand Festival'Nando
+Pokemon: Which character had a running gag that involved them chasing their runaway rice ball`Morrison
+Pokemon: Which rival has a team made of only eeveelutions`Virgil
+Pokemon: Which Unova rival was the only one to encounter Team Rocket`Bianca
+Pokemon: Which former trainer companion is the only one to not have a Pokemon capable of Mega Evolution or a Pokemon that can evolve into one`Cilan
