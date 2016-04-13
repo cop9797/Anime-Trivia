@@ -99,7 +99,7 @@ Chrno Crusade: Who is Chrono's brother?`Aion
 Chrno Crusade: Where was Chrono Born?`Pandaemonium
 Chrno Crusade: What does Rosette use as a seal for Chrono?`Pocket Watch
 Serial Experiments Lain: What is the internet called in the show?`The Wired
-Serial Experiments Lain: What is the full name for the main protaganist?`Lain Iwakura
+Serial Experiments Lain: What is the full name for the main protaganist?`Lain Iwakura`Iwakura Lain
 Serial Experiments Lain: Who is Lain's Sister?`Mizuki Arisu`Arisu Mizuki`Arisu
 Serial Experiments Lain: What is Layer 1?`Weird
 Serial Experiments Lain: What is Layer 2?`Girls
@@ -127,8 +127,8 @@ Serial Experiments Lain: Who commits suicide in the first Layer?`Chisa Yomoda`Yo
 Serial Experiments Lain: Who was the only person to kiss Lain?`Taro
 Serial Experiments Lain: How old is Lain?`14 years old
 Serial Experiments Lain: Who is the DJ in Cyberia?`JJ
-Serial Experiments Lain: What is Lain?`God
-Pokemon: Which pokemon was Ash's original starter`Clefairy
+Serial Experiments Lain: What is Lain considered?`God
+Pokemon: Which pokemon was supposed Ash's original starter`Clefairy
 Pokemon: Which pokemon got a dinosaur named after it`Aerodactyl
 Pokemon: What other character did Ash's original voice actor voice`Delia Ketchum
 Pokemon: Which pokemon did they leave out of the original Pokerap`Mew
@@ -136,14 +136,13 @@ Pokemon: Which pokemon is the creator's favorite`Poliwhirl
 Pokemon: Which legendary pokemon is the only one that Ash hasn't encountered`Raikou
 Pokemon: Who voiced Mewtwo in the first Pokemon movie`Masachika Ichimura
 Pokemon: What is the first non Pokemon animal that was seen on the show`A worm
-Pokemon: Which pokemon was the first to ever make an appearance in the Pokemon`Gengar
 Pokemon: Which eeveelution hasn't been owned by either a main or recurring character`Jolteon
 Pokemon: Which pokemon does Cilan fear`Purrloin
 Pokemon: Which main character was the first to leave the group in the middle of a journey for a period of time`Clemont
 Pokemon: Which rival is the only one to nickname their pokemon`Ritchie
 Pokemon: Which recurring human character is the first to share their voice actor with a pokemon`Sawyer
 Pokemon: Which regular rival is the first to be seen capturing a pokemon and receiving a gym badge on screen`Paul
-Pokemon: Which character is the only male to have made it to the Top 4 of the Sinnoh Grand Festival'Nando
+Pokemon: Which character is the only male to have made it to the Top 4 of the Sinnoh Grand Festival`Nando
 Pokemon: Which character had a running gag that involved them chasing their runaway rice ball`Morrison
 Pokemon: Which rival has a team made of only eeveelutions`Virgil
 Pokemon: Which Unova rival was the only one to encounter Team Rocket`Bianca
@@ -295,6 +294,7 @@ Death Note: What were Light's last words`Well Near looks like I win
 Death Note: How many humans have used a notebook's pags to kill`Seven
 Death Note: How many days was Light held in solitary confinement by the taskforce`50 days
 Death Note: What was the color of Higuchi's car when he was being chased by Aiber and Mogi`Red
+Death Note: What is L's fighting style`Capoeira
 Soul Eater: Who published Death Note`Square Enix
 Soul Eater: What does Maka's name mean when rearranged`Scythe
 Soul Eater: What is the name of Black Star's weapon partner`Tsubaki Nakatsukasa
