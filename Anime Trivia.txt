@@ -128,25 +128,25 @@ Serial Experiments Lain: Who was the only person to kiss Lain?`Taro
 Serial Experiments Lain: How old is Lain?`14 years old
 Serial Experiments Lain: Who is the DJ in Cyberia?`JJ
 Serial Experiments Lain: What is Lain considered?`God
-Pokemon: Which pokemon was supposed Ash's original starter`Clefairy
-Pokemon: Which pokemon got a dinosaur named after it`Aerodactyl
-Pokemon: What other character did Ash's original voice actor voice`Delia Ketchum
-Pokemon: Which pokemon did they leave out of the original Pokerap`Mew
-Pokemon: Which pokemon is the creator's favorite`Poliwhirl
-Pokemon: Which legendary pokemon is the only one that Ash hasn't encountered`Raikou
-Pokemon: Who voiced Mewtwo in the first Pokemon movie`Masachika Ichimura
-Pokemon: What is the first non Pokemon animal that was seen on the show`A worm
-Pokemon: Which eeveelution hasn't been owned by either a main or recurring character`Jolteon
-Pokemon: Which pokemon does Cilan fear`Purrloin
-Pokemon: Which main character was the first to leave the group in the middle of a journey for a period of time`Clemont
-Pokemon: Which rival is the only one to nickname their pokemon`Ritchie
-Pokemon: Which recurring human character is the first to share their voice actor with a pokemon`Sawyer
-Pokemon: Which regular rival is the first to be seen capturing a pokemon and receiving a gym badge on screen`Paul
-Pokemon: Which character is the only male to have made it to the Top 4 of the Sinnoh Grand Festival`Nando
-Pokemon: Which character had a running gag that involved them chasing their runaway rice ball`Morrison
-Pokemon: Which rival has a team made of only eeveelutions`Virgil
-Pokemon: Which Unova rival was the only one to encounter Team Rocket`Bianca
-Pokemon: Which former trainer companion is the only one to not have a Pokemon capable of Mega Evolution or a Pokemon that can evolve into one`Cilan
+Pokemon: Which pokemon was supposed to be Ash's original starter?`Clefairy
+Pokemon: Which pokemon was named after a dinosaur?`Aerodactyl
+Pokemon: What other character did Ash's original voice actor voice?`Delia Ketchum
+Pokemon: Which pokemon did they leave out of the original Pokerap?`Mew
+Pokemon: Which pokemon is the creator's favorite?`Poliwhirl
+Pokemon: Which legendary pokemon is the only one that Ash hasn't encountered?`Raikou
+Pokemon: Who voiced Mewtwo in the first Pokemon movie?`Masachika Ichimura
+Pokemon: What is the first non Pokemon animal that was seen on the show?`A worm
+Pokemon: Which eeveelution hasn't been owned by either a main or recurring character?`Jolteon
+Pokemon: Which pokemon does Cilan fear?`Purrloin
+Pokemon: Which main character was the first to leave the group in the middle of a journey for a period of time?`Clemont
+Pokemon: Which rival is the only one to nickname their pokemon?`Ritchie
+Pokemon: Which recurring human character is the first to share their voice actor with a pokemon?`Sawyer
+Pokemon: Which regular rival is the first to be seen capturing a pokemon and receiving a gym badge on screen?`Paul
+Pokemon: Which character is the only male to have made it to the Top 4 of the Sinnoh Grand Festival?`Nando
+Pokemon: Which character had a running gag that involved them chasing their runaway rice ball?`Morrison
+Pokemon: Which rival has a team made of only eeveelutions?`Virgil
+Pokemon: Which Unova rival was the only one to encounter Team Rocket?`Bianca
+Pokemon: Which former trainer companion is the only one to not have a Pokemon capable of Mega Evolution or a Pokemon that can evolve into one?`Cilan
 General: Which genre is aimed at girls between 10-18?`shoujo
 General: When was the first known Japanese animation produced?`1917
 General: The practice of dressing up like anime characters in Japan is called?`cosplay
@@ -315,3 +315,22 @@ Detective Conan: Who is Gosho Aoyama's favorite character`Ran Mouri
 Detective Conan: What pop band has a singer that is Conan's Japanese voice actor`Two Mix
 Detective Conan: What is the poison that Conan swallowed`APTX 4869
 Detective Conan: What is Shinichi's date of birth`May 4th
+Girls und Panzer: What WWII tank country did Anzio Girls High School mainly support?`Italy`Italian
+Girls und Panzer: What WWII tank country did Saunders University High School mainly support?`U.S.`United States`USA`US
+Girls und Panzer: What WWII tank country did St. Gloriana Girls High School mainly support?`Britan`Great Britan`British
+Girls und Panzer: What WWII tank country did Pravda Girls High School mainly support?`Russia`Russian`USSR
+Girls und Panzer: What WWII tank country did Kuromorimine Girls High School mainly support?`German`Germany`Nazi
+Girls und Panzer: What tank did the Anglerfish Team drive?`Panzer IV Ausf.D`Panzer IV
+Girls und Panzer: What tank did the Turtle Team drive?`Panzer 38`Jagdpanzer 38`German Panzer 38`Czech Panzer 38
+Girls und Panzer: What tank did the Hippo Team drive?`German StuG. III Ausf.F`German StuG. III`StuG. III
+Girls und Panzer: What tank did the Duck Team drive?`Type 89
+Girls und Panzer: What tank did the Rabbit Team drive?`M3 Lee
+Girls und Panzer: What tank did the Mallard Team drive?`Char B-1
+Girls und Panzer: What tank did the Anteater Team drive?`Type-3 Chi-Nu
+Girls und Panzer: What tank did the Leopon Team drive?`Tiger
+Girls und Panzer: Who was the Commander of Pravda Girls High School?`Katyusha
+Girls und Panzer: Who was the Commander of Saunders Girls High School?`Kay
+Girls und Panzer: Who was the Commander of St. Gloriana Girls High School?`Darjeeling
+Girls und Panzer: Who was the Commander of Ooarai Girls High School?`Miho Nishizumi`Miho
+Girls und Panzer: Who was the Commander of Kuromorimine Girls High School?`Maho Nishizumi`Maho
+Girls und Panzer: Who was the Commander of Anzio Girls High School?`Anchovy
