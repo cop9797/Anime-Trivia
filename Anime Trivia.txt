@@ -165,29 +165,25 @@ General: What character type is a heroine that started as a villain trying to ki
 General: It's common in anime for a character to pull their lower eyelid down to taunt someone. What is this called?`akanabe
 General: What anime character type is known as a quiet and often antisocial character?`dandere
 General: What character type is very loving and gentle to someone before their devotion becomes destructive in nature, often through violence and/or brutality?`yandere
-Sword Art Online: What's one other Sword Art Online that A-1 Pictures has produced`Fairy Tail
 Sword Art Online: What was the first entry of the SAO manga written for`A novel writing contest`writing contest
-Sword Art Online: What is the game SAO the first of`It's the first virtual reality`MMORPG
+Sword Art Online: What is the game SAO the first of`It's the first virtual reality`VRMMORPG
 Sword Art Online: What is the castle in SAO called`Aincrad
 Sword Art Online: How many floors does the castle in SAO have`100 floors
 Sword Art Online: What button does SAO not allow you to use`The log out button`log out
-Sword Art Online: What color cursor did the community in SAO give the Player Killers`Orange
-Sword Art Online: What color cursor did the community in SAO give to murderers`Red
 Sword Art Online: How many people were killed playing SAO`3853 people
 Sword Art Online: How many unique skills are there in Sword Art Online`10 skills
-Sword Art Online: How many unique skills are known in Sword Art Online`6 skills
 Sword Art Online: What novel inspired SAO'Realtime
-Sword Art Online: Who is the only character able to use the Dual Blade unique skill`Kirito
-Sword Art Online: What processor does Kirito's homemade computer use`A 24Ghz
+Sword Art Online: What is Kirito's Unique Skill`Dual Blades
+Sword Art Online: What processor does Kirito's homemade computer use`A 24Ghz`24Ghz
 Sword Art Online: What is Asuna's rapier called`Lambent Light
 Sword Art Online: What is Lizbeth's original hair color`Brown
-Sword Art Online: What is Kirito's favorite food`Teriyaki chicken burgers` Teriyaki burgers
+Sword Art Online: What is Kirito's favorite food`Teriyaki chicken burgers`Teriyaki burgers
 Sword Art Online: What is Kirito's favorite skill`Fishing
 Sword Art Online: What year does SAO takes place in`year 2022
 Sword Art Online: What are the heroes in SAO called`Clearers
 Sword Art Online: How long is the period between the death of the player in the game and the death of the player in real life`10 seconds
-Sword Art Online: What is Kiriko's full name`Kirigaya Kazuto
-Sword Art Online: What other Sword Art Online takes place in the same universe as SAO`Accel World
+Sword Art Online: What is Kirito's full name`Kirigaya Kazuto
+Sword Art Online: What other anime takes place in the same universe as SAO`Accel World
 Sword Art Online: Who developed the game Sword Art Online in the Sword Art Online`Kayaba Akihiko`Heathcliff
 Sword Art Online: What is the guild that consists of only Player Killers called`The Laughing Coffin
 Sword Art Online: When was Asuna born`September 30th, 2007
@@ -195,31 +191,31 @@ Sword Art Online: How old was Kiriko when he first began playing Sword Art Onlin
 Sword Art Online: How old was Kiriko when he finishes playing Sword Art Online`16 years old
 Sword Art Online: Who was Kirito's in game wife`Yuuki Asuna
 Sword Art Online: When was Kirito born`October 7th, 2008
-Fairy Tail: What is Natsu's race`Etherious demon
-Fairy Tail: Where is Lucy's guild mark located`Back of her right hand
-Fairy Tail: How old is Erza`19 years old
-Fairy Tail: Who is Gray's Japanese voice actor`Yuichi Nakamura
-Fairy Tail: What year was Happy born`Year X778
-Fairy Tail: What is Gajeet Redfox's team called`Flying Dragon Squad
-Fairy Tail: What is Juvia's element`Water
-Fairy Tail: What episode did Wendy first appear in`Episode 49
-Fairy Tail: The color of Carla's eyes are`Brown
-Fairy Tail: Which characters are Mirajane's siblings`Elfman and Lisanna
-Fairy Tail: What month was Makarov born in`March
-Fairy Tail: Who is Laxus' father`Ivan Dreyar
-Fairy Tail: Who was Cana Alberona's previous partner`Lucy Heartfilia
-Fairy Tail: Where is Elfman's guild mark located`Left side of his neck
+Fairy Tail: What is Natsu's race?`Etherious
+Fairy Tail: Where is Lucy's guild mark located?`Back of her right hand
+Fairy Tail: How old is Erza before the time skip?`19 years old
+Fairy Tail: Who is Gray's Japanese voice actor?`Yuichi Nakamura
+Fairy Tail: What year was Happy born?`Year X778
+Fairy Tail: What is Gajeel Redfox's team called?`Flying Dragon Squad
+Fairy Tail: What is Juvia's element?`Water
+Fairy Tail: What episode did Wendy first appear in?`Episode 49
+Fairy Tail: The color of Carla's eyes are?`Brown
+Fairy Tail: Which characters are Mirajane's siblings`Elfman and Lisanna`Lisanna and Elfman
+Fairy Tail: What month was Makarov born in?`March
+Fairy Tail: Who is Laxus' father?`Ivan Dreyar
+Fairy Tail: Who was Cana Alberona's previous partner?`Lucy Heartfilia
+Fairy Tail: Where is Elfman's guild mark located?`Left side of his neck
 Fairy Tail: Which character was a childhood friend of Natsu`Lisanna
-Fairy Tail: What is Levy's magic`Soild Script Letter Magic
-Fairy Tail: Who is Gildarts' English voice actor`Jason Douglas
-Fairy Tail: Who is the only female of the Thunder God Tribe`Evergreen
-Fairy Tail: What is Freed's alias`The Dark
-Fairy Tail: What does Bickslow fight with`Dolls
-Fairy Tail: What is Panther Lily's race`Exceed
-Fairy Tail: Who was revealed to be the Celestial Spirit Leo`Loke
-Fairy Tail: Who is Macao's ex wife`Enno
-Fairy Tail: What is Wakaba's main magic`Smoke magic
-Fairy Tail: What is Alzack's team called`Osprey Squad
+Fairy Tail: What is Levy's magic?`Soild Script Letter Magic
+Fairy Tail: Who is Gildarts' English voice actor?`Jason Douglas
+Fairy Tail: Who is the only female of the Thunder God Tribe?`Evergreen
+Fairy Tail: What is Freed's alias?`The Dark
+Fairy Tail: What does Bickslow fight with?`Dolls
+Fairy Tail: What is Panther Lily's race?`Exceed
+Fairy Tail: Who was revealed to be the Celestial Spirit Leo?`Loke
+Fairy Tail: Who is Macao's ex wife?`Enno
+Fairy Tail: What is Wakaba's main magic?`Smoke magic
+Fairy Tail: What is Alzack's team called?`Osprey Squad
 Sono Hanabira ni Kuchizuke wo: Reo Kawamura ->`Mai Sawaguchi`Mai
 Sono Hanabira ni Kuchizuke wo: Mai Sawaguchi ->`Reo Kawamura`Reo
 Sono Hanabira ni Kuchizuke wo: Kaede Kitajima ->`Sara Kitajima`Sara
@@ -235,26 +231,26 @@ Sono Hanabira ni Kuchizuke wo: What is Sara Kitajima and Kaede Kitajima's family
 Sono Hanabira ni Kuchizuke wo: What is Nanami Oda's favorite food?`Strawberry
 Sono Hanabira ni Kuchizuki wo: What is the english title?`A Kiss for the Petals
 Sono Hanabira ni Kuchizuki wo: What is the School name?`St. Micheal's School For Girls`St. Micheal's
-Bleach: What fruit is also the nickname of Ichigo Kurosaki`Strawberry
-Bleach: How much time does it take for a shinigami to learn how to perform bankai under Kisuke Urahara's method`3 days
-Bleach: Who does Ichigo deeply respect`William Shakespeare
-Bleach: Which character was the first character that the creator created`Rukia Kuchiki
-Bleach: Why did Bambietta get the nickname Bastardbine`Her notorious cruelty
-Bleach: Who is the only character that Ichigo has killed`Ginjo
-Bleach: Where is Urahara's shop located in`Karakura Town
+Bleach: What fruit is also the nickname of Ichigo Kurosaki?`Strawberry
+Bleach: How much time does it take for a shinigami to learn how to perform bankai under Kisuke Urahara's method?`3 days
+Bleach: Who does Ichigo deeply respect?`William Shakespeare
+Bleach: Which character was the first character that the creator created?`Rukia Kuchiki
+Bleach: Why did Bambietta get the nickname Bastardbine?`Her notorious cruelty
+Bleach: Who is the only character that Ichigo has killed?`Ginjo
+Bleach: Where is Urahara's shop located in?`Karakura Town
 Bleach: Which Tove Jansson character inspired Kisuke?`Urahara
-Bleach: What does Ichigo's name mean according to his father`He who protects
-Bleach: What is Ichigo's blood type`A type
-Shingeki no Kyojin: Who is the creator's favorite character`Jean Kirstein
-Shingeki no Kyojin: Which character did Hajame Isayama originally plan to kill off`Sasha Blouse
-Shingeki no Kyojin: How old is Levi`Over 30 years old
-Shingeki no Kyojin: Which two characters' names references an infamous cannibal`Sawney and Bean
-Shingeki no Kyojin: Which character shares its voice actor with the famous vocaloid Hatsune Miku'Ymir
-Shingeki no Kyojin: What does Eren's name mean in Turkish`Saint
-Shingeki no Kyojin: Which country blacklisted this anime`China
-Shingeki no Kyojin: What is Mikasa's name taken from`A Japanese battleship`A Battleship
-Shingeki no Kyojin: How many people do the corps lose when they kill a Titan`30 people
-Shingeki no Kyojin: What is Marco's birthday`June 16th
+Bleach: What does Ichigo's name mean according to his father?`He who protects
+Bleach: What is Ichigo's blood type?`A type
+Shingeki no Kyojin: Who is the creator's favorite character?`Jean Kirstein
+Shingeki no Kyojin: Which character did Hajame Isayama originally plan to kill off?`Sasha Blouse
+Shingeki no Kyojin: How old is Levi?`Over 30 years old
+Shingeki no Kyojin: Which two characters' names references an infamous cannibal?`Sawney and Bean
+Shingeki no Kyojin: Which character shares its voice actor with the famous vocaloid Hatsune Miku?'Ymir
+Shingeki no Kyojin: What does Eren's name mean in Turkish?`Saint
+Shingeki no Kyojin: Which country blacklisted this anime?`China
+Shingeki no Kyojin: What is Mikasa's name taken from`A Japanese battleship?`A Battleship
+Shingeki no Kyojin: How many people do the corps lose when they kill a Titan?`30 people
+Shingeki no Kyojin: What is Marco's birthday?`June 16th
 Hetalia: What is Italy's birthdate`March 17th 
 Hetalia: Which character was based on a friend of Hidekaz Himaruya`Germany
 Hetalia: Japan was stated to be able to _____ in a Christmas event`Imitate voices
@@ -265,16 +261,16 @@ Hetalia: How tall is Russia`5 foot 11 inches
 Hetalia: Which character is immortal`China
 Hetalia: Which character thinks of Spain as an older brother`Italy
 Hetalia: South Italy's hair is darker than his brother because he has`Arabic blood
-Dragon Ball: Which two villains has Goku killed`Yakon and Kid Buu
-Dragon Ball: How much money did the Japanese government raise to fun a DBZ movie`50 million yen
-Dragon Ball: What gender is Goku's Japanese voice actor`Female
-Dragon Ball: What does Bulma's name roughly translates to`Panties
-Dragon Ball: Who is Akira Toriyama's favorite character`Piccolo
-Dragon Ball: What is Goku's mother's name`Gine
-Dragon Ball: Which fight was the longest fight in anime history`Goku vs Frieza
-Dragon Ball: What does Vegeta fear`Worms
-Dragon Ball: Why does Krillin have six dots on his forehead`His training
-Dragon Ball: Which character is a baseball player`Yamcha
+Dragon Ball Z: Which two villains has Goku killed`Yakon and Kid Buu
+Dragon Ball Z: How much money did the Japanese government raise to fun a DBZ movie`50 million yen
+Dragon Ball Z: What gender is Goku's Japanese voice actor`Female
+Dragon Ball Z: What does Bulma's name roughly translates to`Panties
+Dragon Ball Z: Who is Akira Toriyama's favorite character`Piccolo
+Dragon Ball Z: What is Goku's mother's name`Gine
+Dragon Ball Z: Which fight was the longest fight in anime history`Goku vs Frieza
+Dragon Ball Z: What does Vegeta fear`Worms
+Dragon Ball Z: Why does Krillin have six dots on his forehead`His training
+Dragon Ball Z: Which character is a baseball player`Yamcha
 High School of the Dead: Who said: “No matter how tainted you are, I'll still admire you for as long as I'm alive”`Takashi Komuro
 High School of the Dead: Which character is the first to realize that knocking “Them” over is almost as effective as killing them`Saeko Busujima
 High School of the Dead: Which character was based off of a manga creator`Kohta Hirano
@@ -289,20 +285,19 @@ Death Note: Who is the first to find out that Light is Kira`Misa Amane
 Death Note: What is Mello's real name`Mero Mihael Keehl
 Death Note: Which episode does L die in`Episode 25
 Death Note: What rank was Light in high school when he found the death note`Senior
-Death Note: What is Light's other name`Raito
 Death Note: Who was the Shinigami that fell in love with Misa`Gelus
 Death Note: How many humans have used a notebook's pags to kill`Seven
 Death Note: How many days was Light held in solitary confinement by the taskforce`50 days
 Death Note: What was the color of Higuchi's car when he was being chased by Aiber and Mogi`Red
 Death Note: What is L's fighting style`Capoeira
-Soul Eater: Who published Death Note`Square Enix
+Soul Eater: Who published Soul Eater`Square Enix`Yen Press`Gangan Comics
 Soul Eater: What does Maka's name mean when rearranged`Scythe
 Soul Eater: What is the name of Black Star's weapon partner`Tsubaki Nakatsukasa
 Soul Eater: What is Death the Kid's blood type`D
 Soul Eater: What is Soul's theme song`So Scandalous`Scandalous
 Soul Eater: What is the name Tsubaki a reference to`The Japanese camellia flower`camellia flower
 Soul Eater: What is Liz and Patty's last name a reference to`The Thompson submachine gun`Thompson
-Soul Eater: Which two ghosts are known as Evil Spirits`Wrath of the Pharaoh and Flying Dutchman
+Soul Eater: Which two ghosts are known as Evil Spirits`Wrath of the Pharaoh and Flying Dutchman`Flying Dutchman and Wrath of the Pharaoh
 Soul Eater: In the official popularity poll, what rank did Spirit Albarn take`11th rank
 Soul Eater: Who is Asura's weapon partner`Vajra
 Detective Conan: When was Shinichi's first case`On a plane to LA`plane to LA
