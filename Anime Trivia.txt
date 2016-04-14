@@ -238,7 +238,7 @@ Bleach: Which character was the first character that the creator created?`Rukia 
 Bleach: Why did Bambietta get the nickname Bastardbine?`Her notorious cruelty
 Bleach: Who is the only character that Ichigo has killed?`Ginjo
 Bleach: Where is Urahara's shop located in?`Karakura Town
-Bleach: Which Tove Jansson character inspired Kisuke?`Urahara
+Bleach: Which Tove Jansson character inspired Kisuke?`Snufkin
 Bleach: What does Ichigo's name mean according to his father?`He who protects
 Bleach: What is Ichigo's blood type?`A type
 Shingeki no Kyojin: Who is the creator's favorite character?`Jean Kirstein
