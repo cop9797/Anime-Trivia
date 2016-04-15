@@ -21,7 +21,7 @@ Sailor Moon: What is Sailor Uranus' helicopter's name?`Tenoumaru
 Sailor Moon: What is Sailor Neptune's helicopter's name?`Kaiohmaru
 Sailor Moon: Which Sailor Scout was the only one to awaken completely on her own?`Sailor Neptune
 Sailor Moon: Which company was interested in acquiring the rights to Sailor Moon in 1997?`The Walt Disney Company
-Sailor Moon: How many known Sailor Scouts are there?`20 Scouts
+Sailor Moon: How many known Sailor Scouts are there?`20 Scouts`twenty Scouts
 Sailor Moon: Which song is Sailor Moon mentioned in?`One Week by The Barenaked Ladies
 Sailor Moon: What make and model is Sailor Uranus' car?`A Ferrari 512M`Ferrari 512M
 Sailor Moon: Which Sailor Scout was the most popular in Japan?`Sailor Mercury
