@@ -292,7 +292,7 @@ Death Note: What was the color of Higuchi's car when he was being chased by Aibe
 Death Note: What is L's fighting style?`Capoeira
 Soul Eater: Who published Soul Eater?`Square Enix`Yen Press`Gangan Comics
 Soul Eater: What does Maka's name mean when rearranged?`Scythe
-Soul Eater: What is the name of Black Star's weapon partner?`Tsubaki Nakatsukasa
+Soul Eater: What is the name of Black Star's weapon partner?`Tsubaki Nakatsukasa`Tsubaki
 Soul Eater: What is Death the Kid's blood type?`D
 Soul Eater: What is Soul's theme song`So Scandalous?`Scandalous
 Soul Eater: What is the name Tsubaki a reference to`The Japanese camellia flower?`camellia flower
@@ -394,7 +394,7 @@ Angel Beats: How did Hideki die?`A car crash
 Angel Beats: Who is Hideki's best friend?`Ooyama
 Angel Beats: Who is the main protagonist of the Heaven's Door manga?`Hideki Hinata`Hinata Hideki
 Angel Beats: What is Yuri's nickname?`Yurippe
-Angel Beats: Who's last gesture for Kanade was giving her a hug?`Yuri's
+Angel Beats: Who's last gesture for Kanade was giving her a hug?`Yuri's`Yuri
 Angel Beats: What was Otonashi's reason for living`His little sister?`little sister`imouto
 Angel Beats: Which other anime character does Otonashi resemble?`Kyousuke Natsume
 Angel Beats: Who wanted to do something in the medical field`Yuzuru Otonashi?`Otonashi Yuzuru
