@@ -390,7 +390,7 @@ Ouran High School Host Club: What are Tamaki's two ethnicities?`French and Japan
 Ouran High School Host Club: Which character is the first to figure out that Haruhi is a girl?`Kyoya
 Ouran High School Host Club: When upset or depressed where does Tamaki go?`In a corner
 Ouran High School Host Club: What kind of business is Kyoya's family in?`Medical
-Angel Beats: How did Hideki die?`A car crash
+Angel Beats: How did Hideki die?`A car crash`car accident`car crash
 Angel Beats: Who is Hideki's best friend?`Ooyama
 Angel Beats: Who is the main protagonist of the Heaven's Door manga?`Hideki Hinata`Hinata Hideki
 Angel Beats: What is Yuri's nickname?`Yurippe
