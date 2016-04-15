@@ -192,7 +192,7 @@ Sword Art Online: How old was Kiriko when he finishes playing Sword Art Online?`
 Sword Art Online: Who was Kirito's in game wife?`Yuuki Asuna`Asuna Yuuki`Asuna
 Sword Art Online: When was Kirito born?`October 7th, 2008
 Fairy Tail: What is Natsu's race?`Etherious
-Fairy Tail: Where is Lucy's guild mark located?`Back of her right hand
+Fairy Tail: Where is Lucy's guild mark located?`Back of her right hand`back of the right hand`right hand
 Fairy Tail: How old is Erza before the time skip?`19 years old
 Fairy Tail: Who is Gray's Japanese voice actor?`Yuichi Nakamura
 Fairy Tail: What year was Happy born?`Year X778
@@ -242,7 +242,7 @@ Bleach: Which Tove Jansson character inspired Kisuke?`Snufkin
 Bleach: What does Ichigo's name mean according to his father?`He who protects
 Bleach: What is Ichigo's blood type?`A type
 Shingeki no Kyojin: Who is the creator's favorite character?`Jean Kirstein
-Shingeki no Kyojin: Which character did Hajame Isayama originally plan to kill off?`Sasha Blouse
+Shingeki no Kyojin: Which character did Hajame Isayama originally plan to kill off?`Sasha Blouse`Sasha
 Shingeki no Kyojin: How old is Levi?`Over 30 years old
 Shingeki no Kyojin: Which two characters' names references an infamous cannibal?`Sawney and Bean
 Shingeki no Kyojin: Which character shares its voice actor with the famous vocaloid Hatsune Miku?'Ymir
@@ -355,7 +355,7 @@ D.Gray-Man: What is Lavi's occupation?`Chronicler
 D.Gray-Man: Who is Komui's younger sister?`Lenalee`Rinari
 D.Gray-Man: Which country is Lenalee's home country?`China
 D.Gray-Man: What is Lenalee's birthday?`May 11th
-D.Gray-Man: How much does Lenalee weigh?`106 Ibs
+D.Gray-Man: How much does Lenalee weigh?`106 Lbs
 D.Gray-Man: Which character is ambidextrous`Allen Walker?`Aren Woka
 D.Gray-Man: Which holiday is Allen's birthday?`Christmas
 D.Gray-Man: What's Yu's nickname for Allen?`Bean sprout
