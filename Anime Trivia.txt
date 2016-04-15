@@ -482,7 +482,7 @@ Noragami: What song is Yato's English theme song?`Don't You Forget About Me by S
 Noragami: What phobia does Yato have?`Athazagoraphobia
 Noragami: What is Iki's birthday?`June 28th 
 Noragami: What is Iki's character song?`Mitai Sekai
-Noragami: Which Soul Eater character does Yukine share his English voice actor with?`Soul Eater Evans'Soul'Soul Eater
+Noragami: Which Soul Eater character does Yukine share his English voice actor with?`Soul Eater Evans`Soul`Soul Eater
 Noragami: Besides his true name, what is one other name that Yato goes by?`Yatty`Jersey`Tracksuit
 Noragami: What is Yato the god of?`War`Calamity`Depravity`Fortune
 Noragami: What color are Yukine's eyes?`Amber
