@@ -433,7 +433,7 @@ Ghost Hunt: Who has been attacked the most by spirits?`Mai`Mai Taniyama
 Ghost Hunt: Who did the author of the series pair Mai with?`Naru
 Ghost Hunt: What holiday was Mai born one day before?`Fourth of July
 Black Butler: What is Ciel's title?`Earl of Phantomhive
-Black Butler: Why won't Ciel allow cats in his house`He's allergic?`It would please Sebastian
+Black Butler: Why won't Ciel allow cats in his house?`He's allergic`It would please Sebastian
 Black Butler: What does Ciel's name mean in French?`Sky
 Black Butler: When did Ciel die?`August 26th, 1889
 Black Butler: What is Ciel's favorite flower?`Sterling silver rose
