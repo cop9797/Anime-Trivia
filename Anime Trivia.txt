@@ -182,14 +182,14 @@ Sword Art Online: What is Kirito's favorite skill?`Fishing
 Sword Art Online: What year does SAO takes place in?`year 2022
 Sword Art Online: What are the heroes in SAO called?`Clearers
 Sword Art Online: How long is the period between the death of the player in the game and the death of the player in real life?`10 seconds
-Sword Art Online: What is Kirito's full name?`Kirigaya Kazuto
+Sword Art Online: What is Kirito's full name?`Kirigaya Kazuto`Kazuto
 Sword Art Online: What other anime takes place in the same universe as SAO?`Accel World
 Sword Art Online: Who developed the game Sword Art Online in the Sword Art Online?`Kayaba Akihiko`Heathcliff
 Sword Art Online: What is the guild that consists of only Player Killers called?`The Laughing Coffin
 Sword Art Online: When was Asuna born?`September 30th, 2007
 Sword Art Online: How old was Kiriko when he first began playing Sword Art Online?`14 years old
 Sword Art Online: How old was Kiriko when he finishes playing Sword Art Online?`16 years old
-Sword Art Online: Who was Kirito's in game wife?`Yuuki Asuna
+Sword Art Online: Who was Kirito's in game wife?`Yuuki Asuna`Asuna Yuuki`Asuna
 Sword Art Online: When was Kirito born?`October 7th, 2008
 Fairy Tail: What is Natsu's race?`Etherious
 Fairy Tail: Where is Lucy's guild mark located?`Back of her right hand
