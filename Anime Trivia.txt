@@ -451,7 +451,7 @@ Black Butler: What is one of Sebastian's alias`Black?`Mr. Michaelis
 Black Butler: Sebastian doesn't`Sleep
 Black Butler: Who is Sebastian named after?`A dog`Ciel's dog
 Black Butler: What does Sebastian help Elizabeth with in the first episode?`A ball
-Higashi no Eden: Higashi no Eden was the_ _ anime to be aired in the Fuji TV Noitamina block?`First original
+Higashi no Eden: Higashi no Eden was the____ _____ anime to be aired in the Fuji TV Noitamina block?`First original
 Higashi no Eden: The OP contains a line from which William Shakespeare play?`Julius Caesar
 Higashi no Eden: Which character's name comes from the Portuguese word that means judge?`Juiz
 Higashi no Eden: Which American radio station does the taxi driver plays in episode 1?`WPGC 95.5
