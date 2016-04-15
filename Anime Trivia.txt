@@ -32,7 +32,7 @@ Outlaw Star: Which of these species resembles birds?`Silgrians
 Outlaw Star: Which assassin lead the Anten Seven?`Hitoriga
 Outlaw Star: What fighting style was used by Iraga?`Hoke Shadow Boxing
 Outlaw Star: What ship component does dragonite fuel?`Munchousen Drive
-Outlaw Star: "Tao Magic" is the short way to say what?`Senjutsu
+Outlaw Star: 'Tao Magic' is the short way to say what?`Senjutsu
 Outlaw Star: How many times do we see Aisha successfully transform into her beast form?`Two
 Outlaw Star: Counting him, how many men were in CrackerJack's gang?`5 Men
 Outlaw Star: What is the name of the spaceship piloted by Gene Starwind?`Outlaw Star
@@ -122,7 +122,7 @@ Serial Experiments Lain: What costume does Lain wear to bed?`Bear costume
 Serial Experiments Lain: What was Copland OS based off of in real life?`Apple`Apple Computers
 Serial Experiments Lain: What text-to-speech software does the show use to say Layer## at the beginning?`Whisper`Mac OS text-to-speech
 Serial Experiments Lain: Present Day`Present Time
-Serial Experiments Lain: "No matter where you are, _______________"`we're all connected`we are all connected
+Serial Experiments Lain: 'No matter where you are, _______________'`we're all connected`we are all connected
 Serial Experiments Lain: Who commits suicide in the first Layer?`Chisa Yomoda`Yomada Chisa`Chisa
 Serial Experiments Lain: Who was the only person to kiss Lain?`Taro
 Serial Experiments Lain: How old is Lain?`14 years old
@@ -150,8 +150,8 @@ Pokemon: Which former trainer companion is the only one to not have a Pokemon ca
 General: Which genre is aimed at girls between 10-18?`shoujo
 General: When was the first known Japanese animation produced?`1917
 General: The practice of dressing up like anime characters in Japan is called?`cosplay
-General: In yaoi pairing, what is the "receiving", "bottom", or passive partner known as?`uke
-General: In yaoi pairing, what is the "top" or dominant partner known as?`seme
+General: In yaoi pairing, what is the 'receiving', 'bottom', or passive partner known as?`uke
+General: In yaoi pairing, what is the 'top' or dominant partner known as?`seme
 General: What is a popular anime/manga character archetype that derives from the Japanese pronunciation of the English word 'cool'?`kuudere`coodere
 General: What is a Japanese term for a character development process that describes a person who is initially cold and even hostile towards another person before gradually showing their warm side over time?`tsundere
 General: Type of anime aimed at young boys under the age of fifteen?`shonen
@@ -185,7 +185,7 @@ Sword Art Online: How long is the period between the death of the player in the 
 Sword Art Online: What is Kirito's full name?`Kirigaya Kazuto`Kazuto
 Sword Art Online: What other anime takes place in the same universe as SAO?`Accel World
 Sword Art Online: Who developed the game Sword Art Online in the Sword Art Online?`Kayaba Akihiko`Heathcliff
-Sword Art Online: What is the guild that consists of only Player Killers called?`The Laughing Coffin
+Sword Art Online: What is the guild that consists of only Player Killers called?`The Laughing Coffin`Laughing Coffin
 Sword Art Online: When was Asuna born?`September 30th, 2007
 Sword Art Online: How old was Kiriko when he first began playing Sword Art Online?`14 years old
 Sword Art Online: How old was Kiriko when he finishes playing Sword Art Online?`16 years old
@@ -271,7 +271,7 @@ Dragon Ball Z: Which fight was the longest fight in anime history?`Goku vs Friez
 Dragon Ball Z: What does Vegeta fear?`Worms
 Dragon Ball Z: Why does Krillin have six dots on his forehead?`His training
 Dragon Ball Z: Which character is a baseball player?`Yamcha
-High School of the Dead: Who said: “No matter how tainted you are, I'll still admire you for as long as I'm alive”?`Takashi Komuro
+High School of the Dead: Who said: 'No matter how tainted you are, I'll still admire you for as long as I'm alive”?`Takashi Komuro
 High School of the Dead: Which character is the first to realize that knocking “Them” over is almost as effective as killing them?`Saeko Busujima
 High School of the Dead: Which character was based off of a manga creator?`Kohta Hirano
 High School of the Dead: Who's just learning to ride a bike?`Alice Maresato
@@ -395,7 +395,6 @@ Angel Beats: Who is Hideki's best friend?`Ooyama
 Angel Beats: Who is the main protagonist of the Heaven's Door manga?`Hideki Hinata`Hinata Hideki
 Angel Beats: What is Yuri's nickname?`Yurippe
 Angel Beats: Who's last gesture for Kanade was giving her a hug?`Yuri's
-Angel Beats: In the manga, what was Yuri's first suspicion of the souce of Angel's power?`Her bikini
 Angel Beats: What was Otonashi's reason for living`His little sister?`little sister`imouto
 Angel Beats: Which other anime character does Otonashi resemble?`Kyousuke Natsume
 Angel Beats: Who wanted to do something in the medical field`Yuzuru Otonashi?`Otonashi Yuzuru
