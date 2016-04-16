@@ -2,26 +2,26 @@ Sailor Moon: Which two Sailor Senshi are lesbian lovers?`Sailor Uranus and Sailo
 Sailor Moon: Usagi Tsukino is better known as?`Sailor Moon
 Sailor Moon: Which superhero team inspired Sailor Moon?`Power Rangers
 Sailor Moon: What is Sailor Moon the soldier of?`Love and Justice
-Sailor Moon: What is Sailor Mercury the soldier of?`Water and Wisdom
-Sailor Moon: What is Sailor Mars the soldier of?`Fire and Passion
-Sailor Moon: What is Sailor Jupiter the soldier of?`Thunder and Courage
-Sailor Moon: What is Sailor Venus the soldier of?`Love and Beauty
-Sailor Moon: What is Sailor Pluto the soldier of?`Spacetime and Change
-Sailor Moon: What is Sailor Uranus the soldier of?`Sky and Flight
-Sailor Moon: What is Sailor Neptune the soldier of?`Ocean and Embrace
-Sailor Moon: What is Sailor Saturn the soldier of?`Destruction and Silence
+Sailor Moon: What is Sailor Mercury the soldier of?`Water
+Sailor Moon: What is Sailor Mars the soldier of?`Fire
+Sailor Moon: What is Sailor Jupiter the soldier of?`Thunder
+Sailor Moon: What is Sailor Venus the soldier of?`Beauty
+Sailor Moon: What is Sailor Pluto the soldier of?`Spacetime
+Sailor Moon: What is Sailor Uranus the soldier of?`Sky
+Sailor Moon: What is Sailor Neptune the soldier of?`Ocean
+Sailor Moon: What is Sailor Saturn the soldier of?`Destruction
 Sailor Moon: Who is the oldest Sailor Senshi?`Sailor Pluto
 Sailor Moon: What does the Japanese title translate to?`Pretty Soldier Sailor Moon
 Sailor Moon: How many episodes does the original Sailor Moon have?`200 episodes
 Sailor Moon: How many animated films were there?`3 films
 Sailor Moon: Which other magic girl Sailor Moon shares an animation team with Sailor Moon?`Revolutionary Girl Utena
 Sailor Moon: What does Usagi Tsukino translate to?`Rabbit on the moon
-Sailor Moon: What color hair did Sailor Moon originally have?`Pink
+Sailor Moon: What hair color did Sailor Moon originally have?`Pink
 Sailor Moon: What is Sailor Uranus' helicopter's name?`Tenoumaru
 Sailor Moon: What is Sailor Neptune's helicopter's name?`Kaiohmaru
 Sailor Moon: Which Sailor Scout was the only one to awaken completely on her own?`Sailor Neptune
 Sailor Moon: Which company was interested in acquiring the rights to Sailor Moon in 1997?`The Walt Disney Company
-Sailor Moon: How many known Sailor Scouts are there?`20 Scouts`twenty Scouts
+Sailor Moon: How many known Sailor Scouts are there?`20 Scouts`Twenty Scouts
 Sailor Moon: Which song is Sailor Moon mentioned in?`One Week by The Barenaked Ladies
 Sailor Moon: What make and model is Sailor Uranus' car?`A Ferrari 512M`Ferrari 512M
 Sailor Moon: Which Sailor Scout was the most popular in Japan?`Sailor Mercury
@@ -92,7 +92,7 @@ Chrno Crusade: Who did Chrono kill by an accident?`Mary Magdelene
 Chrno Crusade: Who is Rosette's brother?`Joshua Christopher
 Chrno Crusade: How old was Rosette when she met Chrono?`12 years old
 Chrno Crusade: How many apostles are there?`Seven
-Chrno Crusade: Who is the Main Protaganist?`Rosette Christopher
+Chrno Crusade: Who is the Main protaganist?`Rosette Christopher
 Chrno Crusade: What occupation is Rosette?`Exorcist
 Chrno Crusade: Who does Rosette work for?`Magdalene Order`Order of Magdelene
 Chrno Crusade: Who is Chrono's brother?`Aion
@@ -184,7 +184,7 @@ Sword Art Online: What are the heroes in SAO called?`Clearers
 Sword Art Online: How long is the period between the death of the player in the game and the death of the player in real life?`10 seconds
 Sword Art Online: What is Kirito's full name?`Kirigaya Kazuto`Kazuto
 Sword Art Online: What other anime takes place in the same universe as SAO?`Accel World
-Sword Art Online: Who developed the game Sword Art Online in the Sword Art Online?`Kayaba Akihiko`Heathcliff
+Sword Art Online: Who developed the game Sword Art Online in the Sword Art Online anime?`Kayaba Akihiko`Heathcliff
 Sword Art Online: What is the guild that consists of only Player Killers called?`The Laughing Coffin`Laughing Coffin
 Sword Art Online: When was Asuna born?`September 30th, 2007
 Sword Art Online: How old was Kiriko when he first began playing Sword Art Online?`14 years old
@@ -235,7 +235,7 @@ Bleach: What fruit is also the nickname of Ichigo Kurosaki?`Strawberry
 Bleach: How much time does it take for a shinigami to learn how to perform bankai under Kisuke Urahara's method?`3 days
 Bleach: Who does Ichigo deeply respect?`William Shakespeare
 Bleach: Which character was the first character that the creator created?`Rukia Kuchiki
-Bleach: Why did Bambietta get the nickname Bastardbine?`Her notorious cruelty
+Bleach: Why did Bambietta get the nickname Bastardbine?`Her notorious cruelty`Her cruelty`Cruelty
 Bleach: Who is the only character that Ichigo has killed?`Ginjo
 Bleach: Where is Urahara's shop located in?`Karakura Town
 Bleach: Which Tove Jansson character inspired Kisuke?`Snufkin
@@ -260,7 +260,7 @@ Hetalia: France's most undesirable relationship is with?`Spain
 Hetalia: How tall is Russia?`5 foot 11 inches
 Hetalia: Which character is immortal?`China
 Hetalia: Which character thinks of Spain as an older brother?`Italy
-Hetalia: South Italy's hair is darker than his brother because he has?`Arabic blood
+Hetalia: South Italy's hair is darker than his brother because he has____ _____`Arabic blood
 Dragon Ball Z: Which two villains has Goku killed?`Yakon and Kid Buu
 Dragon Ball Z: How much money did the Japanese government raise to fun a DBZ movie?`50 million yen
 Dragon Ball Z: What gender is Goku's Japanese voice actor?`Female
@@ -271,16 +271,16 @@ Dragon Ball Z: Which fight was the longest fight in anime history?`Goku vs Friez
 Dragon Ball Z: What does Vegeta fear?`Worms
 Dragon Ball Z: Why does Krillin have six dots on his forehead?`His training
 Dragon Ball Z: Which character is a baseball player?`Yamcha
-High School of the Dead: Who said: 'No matter how tainted you are, I'll still admire you for as long as I'm alive”?`Takashi Komuro
-High School of the Dead: Which character is the first to realize that knocking “Them” over is almost as effective as killing them?`Saeko Busujima
-High School of the Dead: Which character was based off of a manga creator?`Kohta Hirano
-High School of the Dead: Who's just learning to ride a bike?`Alice Maresato
+High School of the Dead: Who said: 'No matter how tainted you are, I'll still admire you for as long as I'm alive”?`Takashi Komuro`Takashi`Kumuro
+High School of the Dead: Which character is the first to realize that knocking “Them” over is almost as effective as killing them?`Saeko Busujima`Saeko`Busujima
+High School of the Dead: Which character was based off of a manga creator?`Kohta Hirano`Kohta`Hirano
+High School of the Dead: Who's just learning to ride a bike?`Alice Maresato`Alice`Maresato`
 High School of the Dead: Which character is the key to the group's survival?`Shizuka Marikawa
-High School of the Dead: Who said: “Girls are complex aren't they?”?`Rei Miyamoto
-High School of the Dead: Who killed Seto?`Saya Takagi
+High School of the Dead: Who said: “Girls are complex aren't they?”?`Rei Miyamoto`Rei`Miyamoto
+High School of the Dead: Who killed Seto?`Saya Takagi`Saya`Takagi
 High School of the Dead: Who is one of the first to get bitten?`Kyoko Hayashi
 High School of the Dead: Who are the two girls that have a noticeable small bust?`Misuzu Ichijou and Asami Nakaoka`Misuzu and Asami`Ichijou and Nakaoka
-High School of the Dead: Who is one of Koichi Shido's followers?`Miku Yuuki
+High School of the Dead: Who is one of Koichi Shido's followers?`Miku Yuuki`Miku`Yuuki
 Death Note: Who is the first to find out that Light is Kira?`Misa Amane
 Death Note: What is Mello's real name?`Mero Mihael Keehl
 Death Note: Which episode does L die in?`Episode 25
@@ -362,7 +362,7 @@ D.Gray-Man: What's Yu's nickname for Allen?`Bean sprout
 D.Gray-Man: Which character is also considered an Earl?`Allen`Aren
 Black Lagoon: What is Benny's race?`Jewish-American
 Black Lagoon: What is Dutch's weapon?`A shotgun
-Black Lagoon: Rock is a _ turned unwitting pirate of the Black Lagoon?`Japanese businessman
+Black Lagoon: Rock is a _ ____ turned unwitting pirate of the Black Lagoon?`Japanese businessman`Businessman
 Black Lagoon: What is one of the other names that Revy goes by?`Rebecca`Two Hands
 Black Lagoon: Who is the leader of the Manisarera Cartel?`Abrego
 Black Lagoon: Who is a survivor of the Battle of the Atlantic?`Wentzel H. Ahbe
@@ -378,11 +378,11 @@ Black Lagoon: Who is affiliated with the Nazis?`Lord Alfred
 Ouran High School Host Club: Who's the oldest member?`Mori`Honey-senpai
 Ouran High School Host Club: Which member is the last to find out that Haruhi is a girl?`Tamaki Suoh
 Ouran High School Host Club: Who's the youngest member?`Kaoru
-Ouran High School Host Club: Who is only in the anime and not in the manga?`Eclair Tonnerre
+Ouran High School Host Club: Who is only in the anime and not in the manga?`Eclair Tonnerre`Eclair
 Ouran High School Host Club: How can one differentiate between the Hiitachin?`Their hair parting
 Ouran High School Host Club: Which two characters fight for Haruhi's hand in marriage?`Kyoya and Tamaki
 Ouran High School Host Club: Who has the host of the natural type?`Haruhi
-Ouran High School Host Club: Who wants to be Mori's apprentice?`Ritsu Kasanoda
+Ouran High School Host Club: Who wants to be Mori's apprentice?`Ritsu Kasanoda`Ritsu
 Ouran High School Host Club: What is Haruhi afraid of the most?`Thunder and lightning
 Ouran High School Host Club: Which two characters are cousins?`Mori and Honey
 Ouran High School Host Club: Which two characters is Mori very protective of?`Haruhi and Honey
@@ -392,12 +392,12 @@ Ouran High School Host Club: When upset or depressed where does Tamaki go?`In a 
 Ouran High School Host Club: What kind of business is Kyoya's family in?`Medical
 Angel Beats: How did Hideki die?`A car crash`car accident`car crash
 Angel Beats: Who is Hideki's best friend?`Ooyama
-Angel Beats: Who is the main protagonist of the Heaven's Door manga?`Hideki Hinata`Hinata Hideki
+Angel Beats: Who is the main protagonist of the Heaven's Door manga?`Hideki Hinata`Hinata Hideki`Hinata
 Angel Beats: What is Yuri's nickname?`Yurippe
 Angel Beats: Who's last gesture for Kanade was giving her a hug?`Yuri's`Yuri
-Angel Beats: What was Otonashi's reason for living`His little sister?`little sister`imouto
-Angel Beats: Which other anime character does Otonashi resemble?`Kyousuke Natsume
-Angel Beats: Who wanted to do something in the medical field`Yuzuru Otonashi?`Otonashi Yuzuru
+Angel Beats: What was Otonashi's reason for living`His little sister?`little sister`Imouto
+Angel Beats: Which other anime character does Otonashi resemble?`Kyousuke Natsume`Kyousuke
+Angel Beats: Who wanted to do something in the medical field`Yuzuru Otonashi`Otonashi Yuzuru`Otonashi
 Angel Beats: What does Angel tell Otonashi in the third drama CD?`She loves him`loves him
 Angel Beats: What does the kanji for Kanade mean?`To play a tune`play a tune`play a song
 Angel Beats: What is Kanade's blood type?`A
@@ -406,7 +406,7 @@ Angel Beats: Who is the fourth member to join the SSS?`Chaa
 Angel Beats: What is the name of Chaa's English voice actor?`Illich Guardiola
 Angel Beats: Which character just appears in the anime and not the manga?`Fujimaki
 Angel Beats: Fujimaki can wield these two weapons at the same time?`Shirasaya and PPSh41
-Angel Beats: Fujimaki can't`Swim
+Angel Beats: Fujimaki can't _____.`Swim
 Angel Beats: What does Hisako's name mean?`Long lived child
 Angel Beats: Which instrument can Hisako play?`An electric guitar`A guitar
 Angel Beats: Which original band member is the only one that doesn't have a surname?`Hisako
@@ -442,22 +442,22 @@ Black Butler: What condition does Ciel share with his mother?`Asthma
 Black Butler: Which character is fond of horseback riding?`Ciel Phantomhive`Ciel
 Black Butler: When's Ciel's birthday?`December 14th, 1875
 Black Butler: How tall is Sebastian?`185 cm` 6 foot 1 inch
-Black Butler: How does Sebastian appear when summond?`A raven`A crow
+Black Butler: How does Sebastian appear when summoned?`A raven`A crow
 Black Butler: Which Japanese word does Sebastian's last name come from?`Mikairi
 Black Butler: Who was the Anicent Egyptian mummy that Sebastian met?`Smenkhkare
 Black Butler: What does Sebastian claim responsibility doing five hundred years ago?`The Black Death
 Black Butler: What about Sebastian is a secret according to Yana Toboso?`His age
-Black Butler: What is one of Sebastian's alias`Black?`Mr. Michaelis
-Black Butler: Sebastian doesn't`Sleep
+Black Butler: What is one of Sebastian's alias`Black`Mr. Michaelis
+Black Butler: Sebastian doesn't _____.`Sleep
 Black Butler: Who is Sebastian named after?`A dog`Ciel's dog
 Black Butler: What does Sebastian help Elizabeth with in the first episode?`A ball
-Higashi no Eden: Higashi no Eden was the____ _____ anime to be aired in the Fuji TV Noitamina block?`First original`First
+Higashi no Eden: What title comes from the Portuguese word that means selection?`Selecao
 Higashi no Eden: The OP contains a line from which William Shakespeare play?`Julius Caesar
 Higashi no Eden: Which character's name comes from the Portuguese word that means judge?`Juiz
 Higashi no Eden: Which American radio station does the taxi driver plays in episode 1?`WPGC 95.5
 Higashi no Eden: What baseball team's hat is the taxi driver wearing in episode 1?`Washington Nationals
 Higashi no Eden: What Meg Ryan movie is referenced by Akira in episode 2?`Kate and Leopold
-Higashi no Eden: Which classic movie does the big earth statue in episode refers to?`Scarface
+Higashi no Eden: Which classic movie does the big earth statue in episode three refers to?`Scarface
 Higashi no Eden: Who's older: Akira or Saki?`Saki
 Higashi no Eden: What is Akira's occupation?`Prince
 Higashi no Eden: Which movie is the only one that Akira and his mother saw together?`Dumbo
@@ -474,9 +474,9 @@ Higashi no Eden: Who is Selecao number 11?`Kuroha Shiratori`Diana Shiratori`Dian
 Noragami: Who often wastes money even when in need of it?`Yato
 Noragami: What does Noragami mean?`Stray god
 Noragami: What is Yato's real name?`Yaboku
-Noragami: Yukine is assumed to have died from?`Abuse from his father
+Noragami: Yukine is assumed to have died from _____ _____ _____ _____.`Abuse from his father
 Noragami: What does Yukine mean?`Sound of the snow
-Noragami: Yuki means?`Snow
+Noragami: Yuki means _____.`Snow
 Noragami: Who accidentally named Yaboku Yato?`Sakura
 Noragami: What song is Yato's English theme song?`Don't You Forget About Me by Simple Minds
 Noragami: What phobia does Yato have?`Athazagoraphobia
@@ -494,8 +494,8 @@ Noragami: Which character has a tendency to get lost?`Ebisu
 Seto no Hanayome: What song does Sun use to power up Nagasumi?`Song of the Heroes
 Seto no Hanayome: Who said: Honor among thieves is honor under the seas?`Sun Seto'Sun
 Seto no Hanayome: Who is the long lost sibling of Akeno Shiranui?`Masa
-Seto no Hanayome: Masa and _ _ are the only two who accept the relationship between Nagasumi and Sun?`Sun's mother
-Seto no Hanayome: What is Maki's title`Spiral Shell?`Conch shell
+Seto no Hanayome: Masa and _ _ are the only two who accept the relationship between Nagasumi and Sun.`Sun's mother
+Seto no Hanayome: What is Maki's title?`Spiral Shell`Conch shell
 Seto no Hanayome: Who tries to eat Nagasumi so that the Merfolk can go home?`Shark Fujishiro`Shark
 Seto no Hanayome: Who is Lunar's English voice actor?`Cherami Leigh
 Seto no Hanayome: Who disrupted the wedding between Lunar and Nagasumi?`Sun
@@ -505,7 +505,7 @@ Seto no Hanayome: Which character's human form is a parody of a character from D
 Seto no Hanayome: Who is a meganekko?`Class Rep
 Seto no Hanayome: Which phobia does Kai have?`Agoraphobia
 Seto no Hanayome: Who's true form is a repulsive and overweight catfish?`Yoshiuo Minamoto`Yoshiuo
-Seto no Hanayome: Yoshiuo is the _ _ of the anime?`Final antigonist
+Seto no Hanayome: Yoshiuo is the _ _ of the anime.`Final antigonist
 Seto no Hanayome: Which anime is this series a carbon copy of?`Rosario+Vampire
 Seto no Hanayome: What anime shares a director with this series?`Magikano
 Seto no Hanayome: What is the opening theme called?`Romantic Summer by SUN&LUNAR
@@ -513,7 +513,7 @@ Seto no Hanayome: Which Dragon Ball character makes a cameo in episode 18?`Goku
 Seto no Hanayome: Name one of the animes that make a character cameo in episode 16?`Dragon Ball Z`Neon Genesis Evangelion
 Golden Time: What does Linda mean in Spanish and Portuguese?`Beautiful`Pretty
 Golden Time: Who is Koko's 'future husband'?`Mitsuo Yanagisawa`Mitsuo
-Golden Time: What was Linda's response to Banri??`Yes
+Golden Time: What was Linda's response to Banri?`Yes
 Golden Time: Who is Mitsuo flirting with at the end of the anime?`Linda
 Golden Time: Who is Koko's boyfriend?`Banri
 Golden Time: Who is the fiancee of Linda's brother?`Konyakusha
@@ -522,10 +522,10 @@ Golden Time: Who lives next door to Banri?`Nana
 Golden Time: Who is called Miss Ultrasonic?`Oka Chinami`Oka
 Golden Time: Who created VJ?`Satou Takaya`Satou
 Golden Time: Who are members of Tea Club?`Shii and Sao
-Golden Time: Linda's voice actress is?`Ai Kayano
-Golden Time: Banri's voice actor is?`Makoto Furukawa
-Golden Time: Koko's voice actress is?`Yui Horie
-Golden Time: Mitsuo's voice actor is?`Kaito Ishikawa
+Golden Time: Linda's voice actress is _______.`Ai Kayano
+Golden Time: Banri's voice actor is _______.`Makoto Furukawa
+Golden Time: Koko's voice actress is _____.`Yui Horie
+Golden Time: Mitsuo's voice actor is _____.`Kaito Ishikawa
 Golden Time: What happened in the final episode between Koko and Banri?`They got engaged
 Golden Time: What episode did Koko get arrested?`Episode 7
 Golden Time: What does Banri's spirit promise Banri?`To make his life a living hell
@@ -537,14 +537,14 @@ Danganronpa: What's Makoto Naegi's zodiac sign?`Aquarius
 Danganronpa: What is Monokuma afraid of?`Mice
 Danganronpa: One of Makoto's other names are?`Ultimate Hope`Ultimate Lucky Student
 Danganronpa: What's Makoto's blood type?`A
-Danganronpa: Makato's chest is?`30 inches
+Danganronpa: Makato's chest is _____?`30 inches
 Danganronpa: What are Makoto's hobbies?`Watching TV and video games
 Danganronpa: What does Makoto mean in Japanese?`Faithfulness
 Danganronpa: What does Naegi mean in Japanese?`Seedlings
 Danganronpa: What is Aoi Asahina's birthday?`April 24th 
 Danganronpa: Which self healing technique does Aoi practice?`Kanpu masatsu
 Danganronpa: How many sports does Aoi play?`6 sports
-Danganronpa: Hina wears during all seasons?`Shorts
+Danganronpa: Hina wears _____ during all seasons.`Shorts
 Danganronpa: Who is the main antagonist of the series?`Junko Enoshima`Junko
 Danganronpa: Who is the twin sister of Junko?`Mukuro
 Danganronpa: When was Junko's anime debut?`Episode 12
