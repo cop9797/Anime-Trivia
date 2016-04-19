@@ -530,7 +530,7 @@ Golden Time: What happened in the final episode between Koko and Banri?`They got
 Golden Time: What episode did Koko get arrested?`Episode 7
 Golden Time: What does Banri's spirit promise Banri?`To make his life a living hell
 Golden Time: Why did Mitsuo enter Fukurai?`To get away from Koko
-Golden Time: How does Koko find out where Mitsuo is going to school?`Her family donated to the school
+Golden Time: How does Koko find out where Mitsuo is going to school?`Her family donated to the school`family donation`family donated
 Danganronpa: Who is the creator's favorite character?`Touko Fukawa`Touko`Toko
 Danganronpa: What's one name that Kyoko Kirigiri go by?`Ultimate Detective`DSC number 919
 Danganronpa: What's Makoto Naegi's zodiac sign?`Aquarius
@@ -538,7 +538,7 @@ Danganronpa: What is Monokuma afraid of?`Mice
 Danganronpa: One of Makoto's other names are?`Ultimate Hope`Ultimate Lucky Student
 Danganronpa: What's Makoto's blood type?`A
 Danganronpa: Makato's chest is _____?`30 inches
-Danganronpa: What are Makoto's hobbies?`Watching TV and video games
+Danganronpa: What are Makoto's hobbies?`Watching TV and video games`playing video games and watching tv
 Danganronpa: What does Makoto mean in Japanese?`Faithfulness
 Danganronpa: What does Naegi mean in Japanese?`Seedlings
 Danganronpa: What is Aoi Asahina's birthday?`April 24th 
@@ -560,7 +560,6 @@ Assassination Classroom: Gakushu Asano's specialty is ____ ____ ____.`Being numb
 Assassination Classroom: Who has the future goal of becoming an architect?`Ryunosuke Chiba`Chiba Ryunosuke`Chiba`Ryunosuke
 Assassination Classroom: Eiichirou Tokumoto is the Japanese voice actor of which character?`Furyou
 Assassination Classroom: The code name This Manga is Awesome belongs to?`Yuzuki Fuwa`Yuzuki`Fuwa`Fuwa Yuzuki
-Assassination Classroom: Which three assassins were hired by Akira Takaoka?`Gastro, Smog, and Grip
 Assassination Classroom: The Death Roll is the signature move of which character?`Sumire`Sumire Hara`Hara`Hara Sumire
 Assassination Classroom: Which character's motto is Learning and killing are of one body?`Korosensei
 Assassination Classroom: Who gave Nagisa the codename Gender?`Rio Nakamura`Rio`Nakamura`Nakamura Rio
@@ -576,11 +575,12 @@ Assassination Classroom: What is Nagasi's zodiac sign?`Cancer
 Assassination Classroom: Karma's most treasured item is a collection of ____ from around the world.`Spices
 Assassination Classroom: How old is Gakuho?`41 years old
 Assassination Classroom: How many languages does Gakushu know how to speak`5 languages
+Assassination Classroom: Who's in love with Nagisa?`Kaede Kayano`Akari Yukimura`Kayano Kaede`Yukimura Akari`Kaede`Akari
 Accel World: Which character's avatar is called Silver Crow?`Arita Haruyuki`Arita`Haruyuki Arita`Haruyuki
 Accel World: The legion Arita is in is called __________.`Nega Nebulus`Black Legion
 Accel World: What is Arita's zodiac sign?`Taurus
 Accel World: Arita's birthday is _____ _____.`April 23rd
-Accel World: What in WW2 particularly interests Arita`German vehicles
+Accel World: What in WW2 particularly interests Arita`German vehicles`German Tanks
 Accel World: Which move is Silver Crow's special move?`Headbutt
 Accel World: Who is Arita's partner?`Kuroyukihime
 Accel World: Which character used to date Takumu Mayuzumi?`Chiyuri Kurashima`Chiyuri`Kurashima Chiyuri`Kurashima
@@ -588,7 +588,7 @@ Accel World: How tall is Chiyuri?`156 cm`5 foot 11 inches
 Accel World: Chiyuri's weight is ______.`51 kg`123 Ibs
 Accel World: What's Chiyuri's avatar called?`Lime Bell
 Accel World: _____ ______ is Chiyuri's special move.`Citron Call
-Accel World: What shape is Chiyuri's pin`A cat face
+Accel World: What shape is Chiyuri's pin`A cat face`cat face
 Accel World: Who is Chiyuri's Japanese voice actress?`Aki Toyosaki
 Accel World: Which character's name liteally means Black Snow Princess?`Kuroyukihime
 Accel World: What is Kuroyukihime's blood type?`AB
@@ -618,7 +618,7 @@ No Game No Life: Which game series' characters does Sora imitate in episode 3?`A
 No Game No Life: In episode 11, which Persona character is shown?`Chie Satonaka
 No Game No Life: Which pose does Sora do when asking Jibril information about the Eastern Federation`The Gendo Pose
 No Game No Life: When Stephanie was pounding her head on the wall in episode 11, which Jojo's Bizarre Adventure character's cry does she use?`Brando Dio
-No Game No Life: The Stein;s Gate character _____ ______ appears in episode 11.`Makise Kurisu
+No Game No Life: The Steins; Gate character _____ ______ appears in episode 11.`Makise Kurisu
 No Game No Life: How many races have Sora and Shiro not seen`6 races
 No Game No Life: Which races haven't been seen in the anime at all?`Gigants, Lunamana, and Fairies
 No Game No Life: What is another name for Flugel`Angel`Heavenly Winged
@@ -626,8 +626,8 @@ No Game No Life: Another name for Dhampir is ____.`Vampire
 No Game No Life: Werebeast has another name the race goes by, what is it?`Warbeast
 No Game No Life: The official name of mermaids is what?`Seiren
 No Game No Life: What word does Sora and Shiro's names, when written in Japanese, put together make?`Blank
-No Game No Life: What is the tenth pledge?`Let's all have fun and play together
-No Game No Life: In games, what does each player bet?`Something they agree is equal value
+No Game No Life: What is the tenth pledge?`Let's all have fun and play together`have fun and play together`play together and have fun
+No Game No Life: In games, what does each player bet?`Something they agree is equal value`equal value
 No Game No Life: What does Shiro mean in Japanese?`White
 No Game No Life: In a Charapedia poll, which character got ranked 5th smartest anime character?`Sora
 No Game No Life: Which character's name is an Arabic reading of Gabriel?`Jibril
@@ -638,15 +638,15 @@ Yosuga no Sora: Which character is the only miko?`Akira Amatsume`Akira`Amatsume 
 Yosuga no Sora: In the anime, Akira was the first to share what with her love interest?`A bath
 Yosuga no Sora: Akira is the only character to have what?`A cat
 Yosuga no Sora: Who is Akira's half sister?`Kazuha
-Yosuga no Sora: Where does Akira live?`In a sacred Shinto shrine
+Yosuga no Sora: Where does Akira live?`In a sacred Shinto shrine`sacred shinto shrine
 Yosuga no Sora: Akira is the ____ _____ out of the heroines.`2nd smallest
 Yosuga no Sora: Who's the first character to get molested?`Haruka Kasugano
 Yosuga no Sora: How many girls like Haruka?`7 girls
-Yosuga no Sora: How does Haruka cope with the lost of his and Sora's parents?`A stout heart
+Yosuga no Sora: How does Haruka cope with the lost of his and Sora's parents?`A stout heart`stout heart
 Yosuga no Sora: Haru is the first character to commit what`Incestuous actions
 Yosuga no Sora: When is Sora and Haru's birthday?`February 5th
 Yosuga no Sora: The Kasugano twins' zodiac sign is what?`Aquarius
-Yosuga no Sora: What is Sora Kasugano almost never seen without?`Her stuffed rabbit
+Yosuga no Sora: What is Sora Kasugano almost never seen without?`Her stuffed rabbit`stuffed rabbit
 Yosuga no Sora: What does Sora have an irrational fear of?`Mosquitoes
 Yosuga no Sora: Who was the only character to attempt suicide?`Sora
 Yosuga no Sora: Sora is the only ___ ____ character in the anime,`Anti-social
